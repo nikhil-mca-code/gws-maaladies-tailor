@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="/websiteprojects/maaladiestailor/photo/roundlogo.webp" width="140">
+  <img src="photo/roundlogo.webp" width="140">
 </p>
 
 <h1 align="center">
@@ -96,14 +96,13 @@ The interface was designed to reflect the boutique's identity while maintaining 
 ## Screenshots
 
 ### Homepage
-![Homepage](/websiteprojects/maaladiestailor/gws-screenshot/desktop-view.png)
+![Homepage](gws-screenshot/desktop-view.png)
 
 ### Contact Section
-![Contact](/websiteprojects/maaladiestailor/gws-screenshot/form-ss.png)
+![Contact](gws-screenshot/form-ss.png)
 
 ### Mobile View
-![MobileView](/websiteprojects/maaladiestailor/gws-screenshot/mobileview.png)
-
+![Mobile View](gws-screenshot/mobileview.png)
 ---
 
 ## Local Setup
