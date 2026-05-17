@@ -93,25 +93,22 @@ The interface was designed to reflect the boutique's identity while maintaining 
 
 ---
 
-## Screenshots
-
 ## 📸 Screenshots
 
 ### Homepage
-<p align="center">
-  <img src="gws-screenshot/desktop-view.png" width="850" alt="Homepage Screenshot">
+<p>
+  <img src="gws-screenshot/desktop-view.png" width="450" alt="Homepage Screenshot">
 </p>
 
 ### Contact Section
-<p align="center">
-  <img src="gws-screenshot/form-ss.png" width="850" alt="Contact Section Screenshot">
+<p >
+  <img src="gws-screenshot/form-ss.png" width="250" alt="Contact Section Screenshot">
 </p>
 
 ### Mobile View
-<p align="center">
-  <img src="gws-screenshot/mobileview.png" width="280" alt="Mobile View Screenshot">
+<p>
+  <img src="gws-screenshot/mobileview.png" width="250" alt="Mobile View Screenshot">
 </p>
-
 ## Local Setup
 
 Clone the repository:
