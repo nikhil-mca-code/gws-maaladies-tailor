@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="photo/roundlogo.webp" width="140">
+  <img src="photo/roundlogo.webp" width="120">
 </p>
 
 <h1 align="center">
@@ -95,15 +95,22 @@ The interface was designed to reflect the boutique's identity while maintaining 
 
 ## Screenshots
 
+## 📸 Screenshots
+
 ### Homepage
-![Homepage](gws-screenshot/desktop-view.png)
+<p align="center">
+  <img src="gws-screenshot/desktop-view.png" width="850" alt="Homepage Screenshot">
+</p>
 
 ### Contact Section
-![Contact](gws-screenshot/form-ss.png)
+<p align="center">
+  <img src="gws-screenshot/form-ss.png" width="850" alt="Contact Section Screenshot">
+</p>
 
 ### Mobile View
-![Mobile View](gws-screenshot/mobileview.png)
----
+<p align="center">
+  <img src="gws-screenshot/mobileview.png" width="280" alt="Mobile View Screenshot">
+</p>
 
 ## Local Setup
 
