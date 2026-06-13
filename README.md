@@ -1,190 +1,285 @@
+# 👗 Maa Ladies Tailor
 
-<p align="center">
-  <img src="photo/roundlogo.webp" width="120">
-</p>
+### Professional Boutique & Tailoring Website
 
-<h1 align="center">
-Maa Ladies Tailor Boutique Website
-</h1>
+<div align="center">
 
-<p align="center">
-Professional Boutique & Tailoring Website
-</p># Maa Ladies Tailor Boutique Website
+<img src="photo/roundlogo.webp" width="120"/>
 
-Professional boutique and tailoring website developed for **Maa Ladies Tailor**, designed to establish a modern digital presence and improve customer engagement.
+<br><br>
 
-> Real client project delivered in 2025 and refined with updates in April 2026.
+[![Live Website](https://img.shields.io/badge/Live-Website-success?style=for-the-badge\&logo=google-chrome)](https://maaladiestailor.in)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 
----
-
-## Live Website
-
-🌐 **Website:** https://maaladiestailor.in
+</div>
 
 ---
 
-## Project Overview
+# 🚀 Overview
 
-This project was developed as a professional boutique and tailoring website for **Maa Ladies Tailor**.
+Maa Ladies Tailor is a professional boutique and tailoring website developed to establish a strong digital presence, improve customer engagement, and simplify communication with potential clients.
 
-The goal of the website is to provide an elegant, responsive, and user-friendly platform where customers can explore tailoring services, view offerings, and contact the business easily.
+This project was designed and delivered as a real client website with a focus on responsiveness, usability, visual appeal, and business functionality.
 
-The project combines modern frontend design with practical business functionality including contact integration and Google Sheets form handling.
-
----
-
-## Project Status
-
-✅ Completed and Delivered (2025)  
-✅ Updated and Refined (April 2026)
+🌐 Live Website:
+https://maaladiestailor.in
 
 ---
 
-## Features
+# 🎯 Project Goals
 
-- Responsive modern design
-- Elegant boutique-themed interface
-- Homepage and business introduction
-- About section
-- Services section
-- Pricing and service information
-- Image gallery
-- Contact form
-- Google Sheets form integration
-- WhatsApp integration
-- Call button support
-- Google Maps integration
-- Testimonials section
-- Social media integration
-- Mobile-friendly experience
-- Smooth user navigation
-- Business-focused UI/UX
+* Build a professional online presence
+* Improve customer accessibility
+* Showcase tailoring services and pricing
+* Enable easy customer inquiries
+* Support mobile-first browsing
+* Increase business credibility
 
 ---
 
-## Tech Stack
+# ✨ Key Features
+
+### 🏠 Business Website
+
+✅ Professional Homepage
+
+✅ Boutique Brand Presentation
+
+✅ Service Showcase
+
+✅ About Section
+
+✅ Pricing Information
+
+---
+
+### 📞 Customer Communication
+
+✅ Contact Form
+
+✅ WhatsApp Integration
+
+✅ Click-to-Call Support
+
+✅ Google Maps Integration
+
+✅ Social Media Links
+
+---
+
+### 📋 Business Operations
+
+✅ Google Apps Script Integration
+
+✅ Google Sheets Lead Collection
+
+✅ Customer Inquiry Management
+
+✅ Form Automation Workflow
+
+---
+
+### 📱 User Experience
+
+✅ Fully Responsive Design
+
+✅ Mobile-Friendly Interface
+
+✅ Fast Loading Pages
+
+✅ Smooth Navigation
+
+✅ Business-Focused UI/UX
+
+---
+
+# 🛠 Technology Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
 
-### Form Integration
-- Google Apps Script
-- Google Sheets Integration
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Hosting & Deployment
-- Netlify Hosting
-- Custom Domain Configuration
+### Automation & Forms
 
----
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge\&logo=googlesheets\&logoColor=white)
 
-## Design Philosophy
+### Deployment
 
-The website follows an **elegant and modern boutique design language** focused on:
-
-- Clean layout
-- Mobile responsiveness
-- User accessibility
-- Fashion-oriented visual presentation
-- Business credibility and trust
-
-The interface was designed to reflect the boutique's identity while maintaining performance and usability.
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-### Homepage
-<p>
-  <img src="gws-screenshot/desktop-view.png" width="450" alt="Homepage Screenshot">
-</p>
+<table>
+<tr>
+<td align="center">
+<b>Mobile Responsive View</b><br><br>
+<img src="gws-screenshot/mobileview.png" width="250"/>
+</td>
 
-### Contact Section
-<p >
-  <img src="gws-screenshot/form-ss.png" width="250" alt="Contact Section Screenshot">
-</p>
+<td align="center">
+<b>Contact Form</b><br><br>
+<img src="gws-screenshot/form-ss.png" width="250"/>
+</td>
+</tr>
 
-### Mobile View
-<p>
-  <img src="gws-screenshot/mobileview.png" width="250" alt="Mobile View Screenshot">
-</p>
-## Local Setup
+<tr>
+<td align="center" >
+<b>Desktop View</b><br><br>
+<img src="gws-screenshot/desktop-view.png" width="450"/>
+</td>
+</tr>
+</table>
 
-Clone the repository:
+---
+# 🎨 Design Philosophy
+
+The website follows a modern boutique design language focused on elegance, accessibility, and customer engagement.
+
+### Core Principles
+
+* Clean User Interface
+* Mobile-First Experience
+* Visual Consistency
+* Business Credibility
+* Easy Navigation
+* Customer Conversion
+
+---
+
+# 📂 Project Structure
+
+```text
+gws-maaladies-tailor/
+│
+├── photo/
+├── gws-screenshot/
+├── LICENSE
+├── README.md
+├── index.html
+├── script.js
+├── styles.css
+├── ads.txt
+├── robots.txt
+├── sitemap.xml
+└── blouseData.json
+```
+
+---
+
+# ⚙️ Local Setup
+
+### Clone Repository
 
 ```bash
 git clone https://github.com/nikhil-mca-code/gws-maaladies-tailor.git
 ```
 
-Open project folder:
+### Open Project Folder
 
 ```bash
 cd gws-maaladies-tailor
 ```
 
-Run locally by opening:
+### Run Project
+
+Open:
 
 ```text
 index.html
 ```
 
-in your browser.
+using any modern web browser.
+
+No installation required.
 
 ---
 
-## Project Structure
+# 📅 Development Timeline
 
-```text
-gws-maaladies-tailor
-├── photo/
-├── LICENSE
-├── README.md
-├── ads.txt
-├── blouseData.json
-├── googlefb214505ef873c8f.html
-├── index.html
-├── script.js
-├── styles.css
-├── robots.txt
-└── sitemap.xml
-```
+| Stage                 | Timeline   |
+| --------------------- | ---------- |
+| Initial Development   | 2025       |
+| Client Delivery       | 2025       |
+| Refinement & Updates  | April 2026 |
+| Production Deployment | Active     |
 
 ---
 
-## Development Timeline
+# 💡 Learning Outcomes
 
-| Stage | Timeline |
-|--------|----------|
-| Initial Development | 2025 |
-| Client Delivery | 2025 |
-| Refinement & Updates | April 2026 |
+This project strengthened practical experience in:
 
----
-
-## Credits
-
-**Developed by Nikhil Singh**  
-Founder & Developer — **Gorakhpur Web Studio**
-
-Gorakhpur Web Studio focuses on student-driven web solutions, digital presence, and modern website development.
+* Responsive Web Design
+* Frontend Development
+* Business Website Development
+* Form Automation
+* Google Apps Script Integration
+* Deployment & Domain Configuration
+* Real Client Delivery
 
 ---
 
-## License
+# 👨‍💻 Developed By
 
-This project is licensed under the **MIT License**.
+<div align="center">
+
+<h3>Nikhil Singh</h3>
+
+Software Development Intern • Full-Stack Developer • Founder @ Gorakhpur Web Studio
+
+<br>
+
+<a href="mailto:nikhil.mca.in@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nikhil-mca-in/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="https://github.com/nikhil-mca-code">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<br><br>
+
+<a href="https://gorakhpurwebstudio.in/">
+<img src="https://img.shields.io/badge/Gorakhpur_Web_Studio-Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/gorakhpurwebstudio/">
+<img src="https://img.shields.io/badge/Instagram-@gorakhpurwebstudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## Repository Purpose
+# 📜 License
 
-This repository serves as:
-
-- A real client project showcase
-- A professional portfolio project
-- A demonstration of frontend and business website development
+MIT License
 
 ---
 
-⭐ If you found this project useful or inspiring, consider giving the repository a star.
+# ⭐ Repository Purpose
+
+This repository showcases a real-world client project demonstrating:
+
+* Frontend Development
+* Business Website Design
+* Google Apps Script Integration
+* Form Automation
+* Responsive UI/UX
+* Production Deployment
+
+⭐ If you found this project useful, consider giving it a star.
