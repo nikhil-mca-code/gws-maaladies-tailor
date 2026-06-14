@@ -1,7 +1,7 @@
 "use strict";
 
 const boutique = (() => {
-    const phone = "917518007867";
+    const phone = "919670681647";
     const leadFormEndpoint = "https://script.google.com/macros/s/AKfycbywkiy9wl9XDUikEM_lklaZP560sJXYvLEViwdhmX3adpLVa2pMSMC6m0CAIlCJixfj/exec";
 
     const blouseData = [
